@@ -1,0 +1,33 @@
+Welcome!
+Welcome to Exploratory Data Analysis. This is a project-based course that should take approximately 2 hours to complete. Before diving into the project, please take a look at the course objectives and structure.
+
+Course Objectives
+In this course, we are going to focus on three learning objectives:
+
+Understanding the concept of Exploratory Data Analysis.
+Creating Visual methods to analyze the data.
+Analyzing trends, patterns, relationships in the data.
+By the end of this course, you will be able to apply exploratory data analysis to real-world datasets.
+
+Course Structure
+This course is divided into 3 parts:
+
+Course Overview: This introductory reading material.
+Exploratory Data Analysis: This is the hands-on project that we will work on in Rhyme.
+Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+Project Structure
+The hands-on project on Exploratory Data Analysis is divided into the following tasks:
+
+Task 1: Understanding Exploratory Data Analysis
+Task 2: Importing libraries and Exploring the Dataset
+Task 3: Checking missing values and Outliers
+Task 4: Creating visual methods to analyze the data
+Task 5: Analyzing trends, patterns, and relationships in the Data.
+Meet the Instructor
+Mo Rebaie is a Data Scientist and Deep Learning Specialist who works in developing AI prototypes and works in the educational sector to help AI enthusiasts kick start their journey with AI. He is currently leading a Data Science team in creating Deep Learning prototypes across industries.
+
+About Rhyme
+This course runs on Coursera's hands-on platform called Rhyme. On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops that have all the software and data you will need. So, you can just focus on learning. For this project, this means instant access to a cloud desktop with RStudio pre-installed.
+
+Earn a Certificate
+After you have completed the Exploratory Data Analysis hands-on project, you will be able to assess your knowledge using an ungraded assignment. Once you are comfortable with the concepts, take the final quiz, score higher than 80% to earn your certificate.
